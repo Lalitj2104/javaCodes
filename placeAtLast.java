@@ -25,6 +25,7 @@ public class placeAtLast{
         String x=sc.next();
         String a="";
         occurence(x,0,a,0);
+        sc.close();
         
 
     }
